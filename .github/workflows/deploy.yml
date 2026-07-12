@@ -30,4 +30,4 @@ jobs:
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
           publish_dir: ./public
           publish_branch: main
-          external_repository: 你的用户名/你的用户名.github.io
+          external_repository: Xq17480.github.io
